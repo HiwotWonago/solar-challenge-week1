@@ -7,7 +7,10 @@ enhance  operational efficiency and sustainability through targeted solar invest
 1. Data analysis
 2. 
 
-## Setup
+To set up the development environment:
+
+1. Clone the repository:
+   ```bash
 
 ```bash
 git clone https://github.com/HiwotWonago/solar-challenge-week1
